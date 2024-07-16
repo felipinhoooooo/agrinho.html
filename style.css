@@ -43,7 +43,7 @@ h1{
 
 .botao-de-imagem{ 
     width: 400px;
-    height: 240px;
+    height: 40px;
     display: flex;
     justify-content: center;
     margin:auto;
