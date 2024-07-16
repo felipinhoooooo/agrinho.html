@@ -48,3 +48,15 @@ h1{
     justify-content: center;
     margin:auto;
 }
+.botao-de-imagem:hover {
+    opacity: 0.8;
+}
+.botao-de-imagem area {
+    cursor: pointer;
+}
+
+.rye-regular {
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
