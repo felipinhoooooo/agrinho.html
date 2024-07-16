@@ -112,8 +112,8 @@ display: inline-block;
 .tabela{
     display: flex;
    justify-content: center;
+
    margin: 0;
-   padding: 20px;
 }
 th, td {
     border: 1px solid #ddd;
