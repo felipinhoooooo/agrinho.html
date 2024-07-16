@@ -42,7 +42,7 @@ h1{
 }
 
 .logo{ 
-    width: 330px;
+    width: 200px;
     height: 300px;
     display: flex;
     flex-direction: column;
