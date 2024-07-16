@@ -110,8 +110,10 @@ display: inline-block;
     padding: 30px;
 }
 .tabela{
-    border-width: 0;
-    margin: 600px;
+    display: flex;
+   justify-content: center;
+   margin: 0;
+   padding: 20px;
 }
 th, td {
     border: 1px solid #ddd;
