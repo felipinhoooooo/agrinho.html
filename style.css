@@ -42,7 +42,7 @@ h1{
 }
 
 .botao-de-imagem{ 
-    width: 10px;
+    width: 100px;
     height: 300px;
     display: flex;
     justify-content: center;
