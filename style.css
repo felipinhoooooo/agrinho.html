@@ -42,8 +42,8 @@ h1{
 }
 
 .botao-de-imagem{ 
-    width: 400px;
-    height: 400px;
+    width: 460px;
+    height: 440px;
     display: flex;
     justify-content: center;
     margin:auto;
