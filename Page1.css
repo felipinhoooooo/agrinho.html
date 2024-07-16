@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fundo {
+    background: #ffffff;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
+    background-color: #708090;
+    height: 220px;
+    border-width: 0;
+}
+
+.title {
+    color: #6ae899;
+    font-size: 50px;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    align-items: center;
+}
+
+.box {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+.Levelofstates {
+    display: inline-block;
+    padding: 13px 15px;
+    font-size: 20px;
+    color: white;
+    background-color: #4CAF50; /* cor de fundo verde */
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.Levelofcompanies {
+    display: inline-block;
+    padding: 8px 15px;
+    font-size: 38px;
+    color: white;
+    background-color: #4CAF50; /* cor de fundo verde */
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.NEW {
+    display: flex;
+    padding: 8px 10px;
+    font-size: 40px;
+    color: white;
+    background-color: #4CAF50; /* cor de fundo verde */
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.AgroTimeline {
+    display: inline-block;
+    padding: 8px 15px;
+    font-size: 39px;
+    color: white;
+    background-color: #4CAF50; /* cor de fundo verde */
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.Titulol {
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+
+.Titulo2 {
+    color: #6ae899;
+    font-size: 60px;
+    text-align: center;
+}
+
+.Titulo3 {
+    color: aqua;
+    font-size: 60px;
+    text-align: center;
+}
+
+.Subtitle {
+    color: #6ae899;
+    font-size: 60px;
+    justify-content: center;
+    margin: auto;
+    padding: 30px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+th {
+    background-color: #f0f0f0;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
