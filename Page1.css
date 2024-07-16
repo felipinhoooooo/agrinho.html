@@ -111,7 +111,7 @@ display: inline-block;
 }
 .tabela{
     border-width: 0;
-    margin: 0;
+    margin: 600px;
 }
 th, td {
     border: 1px solid #ddd;
