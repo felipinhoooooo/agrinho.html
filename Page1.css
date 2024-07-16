@@ -39,7 +39,7 @@
     padding: 13px 15px;
     font-size: 20px;
     color: white;
-    background-color: #4CAF50; /* cor de fundo verde */
+    background-color: white;
     border: none;
     border-radius: 5px;
     text-align: center;
@@ -52,7 +52,7 @@
     padding: 8px 15px;
     font-size: 38px;
     color: white;
-    background-color: #4CAF50; /* cor de fundo verde */
+    background-color: white;
     border: none;
     border-radius: 5px;
     text-align: center;
@@ -111,7 +111,9 @@
     margin: auto;
     padding: 30px;
 }
-
+.table{
+    margin-left: 0;
+}
 th, td {
     border: 1px solid #ddd;
     padding: 10px;
