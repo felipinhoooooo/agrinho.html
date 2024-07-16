@@ -43,10 +43,11 @@ h1{
 
 .botao-de-imagem{ 
     width: 400px;
-    height: 40px;
+    height: 400px;
     display: flex;
     justify-content: center;
     margin:auto;
+    padding: 70px;
 }
 .botao-de-imagem:hover {
     opacity: 0.8;
