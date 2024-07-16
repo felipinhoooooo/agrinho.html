@@ -46,7 +46,17 @@
     cursor: pointer;
     text-decoration: none;
 }
-
+.tt{
+display: inline-block;
+    padding: 13px 15px;
+    font-size: 38px;
+    color:black;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
 .Levelofcompanies {
     display: inline-block;
     padding: 8px 15px;
