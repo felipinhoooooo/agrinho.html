@@ -133,6 +133,13 @@
   color: #6ae899;
   margin: auto;
 }
+.Titulo4{
+  display: flex;
+  font-size: 45px;
+  justify-content: center;
+  color: #6ae899;
+  margin: auto;
+}
 
 .quadrado {
   background: linear-gradient(90deg,  #0606AA,black);
