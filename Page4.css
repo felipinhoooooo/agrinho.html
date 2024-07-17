@@ -32,6 +32,7 @@
   display: inline-block;
   padding: 13px 15px;
   font-size: 20px;
+  background-color: #4CAF50;
   color: white;
   border: none;
   border-radius: 5px;
@@ -44,6 +45,7 @@
   display: inline-block;
   padding: 8px 15px;
   font-size: 38px;
+  background-color: #4CAF50;
   color: white;
   border: none;
   border-radius: 5px;
@@ -57,6 +59,7 @@
   padding: 8px 10px;
   font-size: 40px;
   color: white;
+  background-color: #4CAF50;
   border: none;
   border-radius: 5px;
   text-align: center;
@@ -68,6 +71,7 @@
   display: inline-block;
   padding: 8px 15px;
   font-size: 39px;
+  background-color: #4CAF50;
   color: white;
   border: none;
   border-radius: 5px;
