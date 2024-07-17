@@ -112,7 +112,13 @@
   display: flex;
   margin: auto;
 }
-
+.safraPR{
+  width: 830px;
+  height: 650px;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+}
 .Titulo1{
   display: flex;
   font-size: 48px;
@@ -210,22 +216,7 @@
   padding: 0; 
   margin-top: 100px;
 }
-.Group7 {
-  background: linear-gradient(90deg, #0606AA, black);
-  border: 5px solid #ffffff;
-  width: 845px;
-  margin: auto;
-  padding: 0;
-  margin-top: 100px;
-}.Texto1{
-  color: #6ae899;
-  display: flex;
-  font-size: 40px;
-  justify-content: center;
-  width: 700px;
-  margin: auto;
-  padding: 65px;
-}
+
 .Texto2 {
   color: white;
   display: flex;
