@@ -1,0 +1,838 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.fundo{
+  background: linear-gradient(90deg, #000000,#737373);
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+.cabeçalho{
+  background-color: #708090;
+  height: 220px;
+  border-width: 0;
+}
+.title{
+  color: #6ae899;
+  font-size: 50px ;
+  height: 85px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: auto;}
+.box{
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+}
+.Levelofstates {
+  display: inline-block;
+  padding: 13px 15px;
+  font-size: 20px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.Levelofcompanies {
+  display: inline-block;
+  padding: 8px 15px;
+  font-size: 38px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.NEW {
+  display: flex;
+  padding: 8px 10px;
+  font-size: 40px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.AgroTimeline {
+  display: inline-block;
+  padding: 8px 15px;
+  font-size: 39px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+}
+.Neolítico{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin: auto;
+  padding:auto;
+}
+.Bronze{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin: auto;
+  padding: auto;
+}
+.Antiguidade{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin: auto;
+  padding: auto;
+}
+.Media{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin: auto;
+  padding: auto;
+}
+.Renascimento{
+ display: flex;
+ justify-content: center;
+ margin: auto;
+ padding: auto;
+ width: 680px;
+ height: 550px;
+}
+.Industrial{
+ display: flex;
+ justify-content: center;
+ margin: auto;
+ padding: auto;
+ height: 450px;
+
+}
+.XX{
+ display: flex;
+ justify-content: center;
+ margin: auto;
+ padding: auto;
+}
+.XXI{
+ display: flex;
+ justify-content: center;
+ margin: auto;
+ padding: auto;
+ width: 600px;
+}
+.h2{
+  margin: auto;
+  padding: 5%;
+}
+.Subtitle{
+  color:#6ae899 ;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 30px;
+}
+.Cronologia{
+  display: flex;
+  margin: auto;
+  padding: auto;
+  width: 741px;
+  height: 780px;
+}
+.Titulo1{
+  display: flex;
+  font-size: 48px;
+  justify-content: center;
+  color: #EE0707;
+}
+.Titulo2{
+  display: flex;
+  font-size: 48px;
+  justify-content: center;
+  color: orange;
+}
+.Titulo3{
+  display: flex;
+  font-size: 48px;
+  justify-content: center;
+  color: gold;
+}
+.Titulo4{
+  display: flex;
+  font-size: 48px;
+  justify-content: center;
+  color: #FF6347;
+}
+.Titulo5{
+  display: flex;
+  font-size: 48px;
+  justify-content: center;
+  color: blueviolet;
+}
+.Titulo6{
+  display: flex;
+  font-size: 48px;
+  justify-content: center;
+  color: #87CEFA;
+}
+.Titulo7{
+  display: flex;
+  font-size: 48px;
+  justify-content: center;
+  color: #50C878;
+}
+.Titulo8{
+  display: flex;
+  font-size: 48px;
+  justify-content: center;
+  color: #DCDCDC;
+}
+
+.quadrado{
+  background-color:  linear-gradient(45deg, black, #DDDDE3 );
+}
+.Group1{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: auto;
+  margin-top: 100px;
+}
+.Group2{
+  background: linear-gradient(90deg, #0606AA, black) ;
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: auto;
+  margin-top: 100px;
+}
+.Group3{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: auto;
+  margin-top: 100px;
+}
+.Group4{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: auto;
+  margin-top: 100px;
+}
+.Group5{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin:auto;
+  padding: auto;
+  margin-top: 100px;
+}
+.Group6{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: auto;
+  margin-top: 100px;
+}
+.Group7{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: auto;
+  margin-top: 100px;
+}
+.Group8{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: auto;
+  margin-top: 100px;
+}
+.Texto1{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto3{ 
+  color: white;
+  font-display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto4{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto5{
+  color: white;
+  display: flex;
+  font-size:40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto6{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto7{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto8{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+  
+}
+.Texto9{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto10{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto11{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto12{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto13{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto14{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto15{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto16{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto17{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto18{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto19{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto20{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto21{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto22{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto23{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto24{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto25{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto26{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto27{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto28{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto29{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto30{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto31{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto32{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto33{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto34{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto35{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto36{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto37{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto38{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto39{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto40{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto41{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto42{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto43{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto44{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto45{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto46{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto47{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto48{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto49{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto50{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto51{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto52{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto53{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto54{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto55{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto56{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto57{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto58{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto59{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto60{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto61{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+

@@ -1,0 +1,786 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fundo {
+    background: linear-gradient(90deg, #0606AA, black);
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #708090;
+    height: 220px;
+    border-width: 0;
+}
+
+.title {
+    color: #6ae899;
+    font-size: 50px;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+}
+
+.box {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+.Levelofstates {
+    display: inline-block;
+    padding: 13px 15px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.Levelofcompanies {
+    display: inline-block;
+    padding: 8px 15px;
+    font-size: 38px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.NEW {
+    display: flex;
+    padding: 8px 10px;
+    font-size: 40px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.AgroTimeline {
+    display: inline-block;
+    padding: 8px 15px;
+    font-size: 39px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+.Rectangle{
+    color: #ffffff;
+    background: #151e3d;
+    font-size: 30px;
+    margin: 20px;
+}
+.Agropaulista{
+    width: 550px;
+    height: 540px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: auto;
+}
+.Planosafra{
+   width: 830px;
+   height: 650px;
+   justify-content: center;
+   display: flex;
+   margin: auto;
+}
+.CNA{
+  width: 830px;
+  height: 650px;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+}
+
+.Titulo1{
+  display: flex;
+  font-size: 48px;
+  justify-content: center;
+  color: #6ae899;
+}
+.Titulo2{
+  display: flex;
+  font-size: 48px;
+  justify-content: center;
+  color: #6ae899;
+  margin: auto;
+}
+.Titulo3{
+  display: flex;
+  font-size: 45px;
+  justify-content: center;
+  color: #6ae899;
+  margin: auto;
+}
+
+.quadrado {
+  background: linear-gradient(90deg,  #0606AA,black);
+  color: white;
+}
+
+.Group1 {
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff; 
+  width: 845px;
+  margin: auto;
+  padding: auto; 
+  margin-top: 100px;
+}
+.Group2{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: auto;
+  margin-top: 100px;
+}
+.Group3{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: 0;
+  margin-top: 100px;
+}
+.Group4{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: 0;
+  margin-top: 100px;
+}
+.Group5{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: 0;
+  margin-top: 100px;
+}
+.Group6{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: 0;
+  margin-top: 100px;
+}
+.Group7 {
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: 0;
+  margin-top: 100px;
+}
+.Group8{
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: 0; 
+  margin-top: 100px;
+}
+.Group7 {
+  background: linear-gradient(90deg, #0606AA, black);
+  border: 5px solid #ffffff;
+  width: 845px;
+  margin: auto;
+  padding: 0;
+  margin-top: 100px;
+}.Texto1{
+  color: #6ae899;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto3{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto4{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto5{
+  color: #6ae899;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto6{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto7{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto8{
+  color: #6ae899;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto9{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto10{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto11{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto12{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto13{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto14{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto15{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto16{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto17{
+  color: #6ae899;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto18{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto19{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto20{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto21{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto22{
+  color: #6ae899;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto23{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto24{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto25{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto26{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto27{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto28{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto29{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto30{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto31{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto32{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto33{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto34{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto35{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+.Texto2 {
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
+
+
