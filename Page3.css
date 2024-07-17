@@ -225,7 +225,15 @@
   padding: 0; 
   margin-top: 100px;
 }
-
+.Texto1{
+  color: white;
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  width: 700px;
+  margin: auto;
+  padding: 65px;
+}
 .Texto2 {
   color: white;
   display: flex;
