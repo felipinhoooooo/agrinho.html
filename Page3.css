@@ -201,29 +201,11 @@
   padding: 0;
   margin-top: 100px;
 }
-.Group6{
-  background: linear-gradient(90deg, #0606AA, black);
-  border: 5px solid #ffffff;
-  width: 845px;
-  margin: auto;
-  padding: 0;
-  margin-top: 100px;
+.site{
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
 }
-.Group7 {
-  background: linear-gradient(90deg, #0606AA, black);
-  border: 5px solid #ffffff;
-  width: 845px;
-  margin: auto;
-  padding: 0;
-  margin-top: 100px;
-}
-.Group8{
-  background: linear-gradient(90deg, #0606AA, black);
-  border: 5px solid #ffffff;
-  width: 845px;
-  margin: auto;
-  padding: 0; 
-  margin-top: 100px;
 }
 .Texto1{
   color: white;
