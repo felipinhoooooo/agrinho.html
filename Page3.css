@@ -105,6 +105,13 @@
    display: flex;
    margin: auto;
 }
+.milho{
+  width: 800px;
+  height: 650px;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+}
 .CNA{
   width: 830px;
   height: 650px;
